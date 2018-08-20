@@ -1,0 +1,24 @@
+{
+  "name": "movies-api",
+  "version": "1.0.0",
+  "description": "this is movie schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitalijSK/movie-api.git"
+  },
+  "keywords": [
+    "movie-api",
+    "belarus",
+    "movie"
+  ],
+  "author": "Vitalij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitalijSK/movie-api/issues"
+  },
+  "homepage": "https://github.com/VitalijSK/movie-api#readme"
+}
